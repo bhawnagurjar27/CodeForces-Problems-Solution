@@ -1,3 +1,3 @@
 # Question
-https://codeforces.com/contest/155/problem/A
+https://codeforces.com/contest/155/problem/B
 
