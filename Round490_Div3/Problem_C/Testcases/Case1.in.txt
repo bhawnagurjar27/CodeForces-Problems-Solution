@@ -1,0 +1,6 @@
+Input:
+
+15 3
+cccaabababaccbc
+
+

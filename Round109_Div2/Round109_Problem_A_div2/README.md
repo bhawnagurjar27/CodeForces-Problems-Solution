@@ -1,6 +1,8 @@
 # Question
 https://codeforces.com/contest/155/problem/A
 
+Time Complexity : O(N)
+
 # Approach
 Initially, initialize the min_points and max_points equal to zeroth index value of the points which the coder has earned during different contests.
 Also initialize the variable "num_amazing_performances" (the number of amazing performances the coder has earned) to Zero.
@@ -15,4 +17,6 @@ Step1: Under the range of total number of contests, check whether that if minimu
 
 
 Step2: Print num_amazing_performances as output.
+
+
 

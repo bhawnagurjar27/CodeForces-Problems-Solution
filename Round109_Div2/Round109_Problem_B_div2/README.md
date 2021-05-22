@@ -1,6 +1,8 @@
 # Question
 https://codeforces.com/contest/155/problem/B
 
+Time Complexity : O(N^2)
+
 # Approach
 Initially, Sort the given number of cards according to the numbers as written at the bottom of the i-th card(bi).
          
@@ -17,4 +19,6 @@ Step1: Under the range of cards, check whether the current number of cards is gr
           and increase the counter(current number of cards) by the number written at the bottom of the card.
 
 Step2: Output the total score as the maximum number of points he can score in one round.
+
+
 
