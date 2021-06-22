@@ -1,0 +1,3 @@
+# Question
+https://codeforces.com/problemset/problem/1066/A
+
